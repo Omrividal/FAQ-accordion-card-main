@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://stunning-seahorse-913e61.netlify.app/)
+- Solution URL: [solution URL](https://stunning-seahorse-913e61.netlify.app/)
 
 ### Built with
 
